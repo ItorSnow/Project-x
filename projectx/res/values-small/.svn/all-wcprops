@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2300/trunk/CSipSimple/res/values-small
+END
+layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1659/trunk/CSipSimple/res/values-small/layout.xml
+END
+in_call_values.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2300/trunk/CSipSimple/res/values-small/in_call_values.xml
+END
+style.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1721/trunk/CSipSimple/res/values-small/style.xml
+END

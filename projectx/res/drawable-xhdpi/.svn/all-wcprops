@@ -1,0 +1,1103 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2309/trunk/CSipSimple/res/drawable-xhdpi
+END
+takecall_background_texture.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/takecall_background_texture.png
+END
+ic_ab_trash_dark.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_ab_trash_dark.png
+END
+ic_wizard_qtel.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_qtel.png
+END
+ic_wizard_signumtel.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_signumtel.png
+END
+ic_lockscreen_handle_pressed.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2298/trunk/CSipSimple/res/drawable-xhdpi/ic_lockscreen_handle_pressed.png
+END
+dial_num_star_wht.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/dial_num_star_wht.png
+END
+ic_wizard_securdata.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_securdata.png
+END
+ic_lockscreen_answer_activated.png
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2298/trunk/CSipSimple/res/drawable-xhdpi/ic_lockscreen_answer_activated.png
+END
+ic_wizard_italkworld.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_italkworld.png
+END
+ic_wizard_megatel.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_megatel.png
+END
+ic_end_call.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_end_call.png
+END
+ic_wizard_callromania.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_callromania.png
+END
+ic_wizard_adiptel.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2278/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_adiptel.png
+END
+ic_wizard_inovent.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2273/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_inovent.png
+END
+notify_panel_notification_icon_bg.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/notify_panel_notification_icon_bg.png
+END
+ic_wizard_anv.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_anv.png
+END
+ic_wizard_freephonie.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_freephonie.png
+END
+ic_wizard_catitel.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_catitel.png
+END
+ic_wizard_worlddialpoint.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_worlddialpoint.png
+END
+ic_wizard_messagenet.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_messagenet.png
+END
+ic_wizard_multifon.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_multifon.png
+END
+dial_background_texture.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/dial_background_texture.png
+END
+ic_wizard_mitelefono.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_mitelefono.png
+END
+ic_wizard_hibritel.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2291/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_hibritel.png
+END
+ic_wizard_haloo.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_haloo.png
+END
+ic_lockscreen_decline_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2298/trunk/CSipSimple/res/drawable-xhdpi/ic_lockscreen_decline_normal.png
+END
+ic_wizard_mundor.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_mundor.png
+END
+ic_add_contact_holo_dark.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_add_contact_holo_dark.png
+END
+ic_ab_history_holo_dark.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_ab_history_holo_dark.png
+END
+ic_dial_action_delete.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_dial_action_delete.png
+END
+ic_wizard_mobex.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_mobex.png
+END
+ic_wizard_zonpt.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_zonpt.png
+END
+ic_launcher_nightly.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1987/trunk/CSipSimple/res/drawable-xhdpi/ic_launcher_nightly.png
+END
+ic_wizard_supercel.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_supercel.png
+END
+ic_action_select_invert.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_action_select_invert.png
+END
+ic_wizard_ostel.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_ostel.png
+END
+ic_indicator_off.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_indicator_off.png
+END
+ic_wizard_flowroute.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_flowroute.png
+END
+ic_menu_account_list.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_menu_account_list.png
+END
+ic_stat_sipok.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_stat_sipok.png
+END
+ic_wizard_voipbel.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_voipbel.png
+END
+ic_menu_switch_txt.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_menu_switch_txt.png
+END
+ic_wizard_chattaboxx.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_chattaboxx.png
+END
+ic_wizard_fritzbox.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_fritzbox.png
+END
+ic_wizard_t_online.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_t_online.png
+END
+ic_wizard_necc.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_necc.png
+END
+ic_wizard_voiptiger.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_voiptiger.png
+END
+ic_wizard_interphone365.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_interphone365.png
+END
+ic_wizard_spirit.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_spirit.png
+END
+ic_wizard_bgopen.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_bgopen.png
+END
+ic_wizard_skytel.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_skytel.png
+END
+ic_wizard_haloo_centrala.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_haloo_centrala.png
+END
+ic_wizard_llamadas_xinternet.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_llamadas_xinternet.png
+END
+ic_lockscreen_decline_activated.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2298/trunk/CSipSimple/res/drawable-xhdpi/ic_lockscreen_decline_activated.png
+END
+ic_wizard_clickphone.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_clickphone.png
+END
+ic_wizard_digitel.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_digitel.png
+END
+ic_call_missed_holo_dark.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_call_missed_holo_dark.png
+END
+ic_wizard_securecall.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2275/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_securecall.png
+END
+ic_wizard_zentc.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_zentc.png
+END
+ic_micro_dark.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_micro_dark.png
+END
+ic_ab_favourites_holo_dark.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_ab_favourites_holo_dark.png
+END
+dial_num_0_wht.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/dial_num_0_wht.png
+END
+dial_num_1_wht.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/dial_num_1_wht.png
+END
+ic_wizard_reachphones.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_reachphones.png
+END
+ic_lockscreen_answer_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2298/trunk/CSipSimple/res/drawable-xhdpi/ic_lockscreen_answer_normal.png
+END
+dial_num_2_wht.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/dial_num_2_wht.png
+END
+ic_wizard_ippi.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_ippi.png
+END
+dial_num_3_wht.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/dial_num_3_wht.png
+END
+dial_num_4_wht.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/dial_num_4_wht.png
+END
+ic_wizard_sipkom.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_sipkom.png
+END
+ic_wizard_sipcentric.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_sipcentric.png
+END
+dial_num_5_wht.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/dial_num_5_wht.png
+END
+ic_wizard_fusion.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_fusion.png
+END
+dial_num_6_wht.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/dial_num_6_wht.png
+END
+dial_num_7_wht.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/dial_num_7_wht.png
+END
+ic_in_call_touch_handle_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2298/trunk/CSipSimple/res/drawable-xhdpi/ic_in_call_touch_handle_normal.png
+END
+dial_num_8_wht.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/dial_num_8_wht.png
+END
+ic_contact_picture_180_holo_light.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_contact_picture_180_holo_light.png
+END
+dial_num_9_wht.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/dial_num_9_wht.png
+END
+ic_wizard_balses.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_balses.png
+END
+ic_wizard_nibtel.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2272/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_nibtel.png
+END
+ic_wizard_tenet.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_tenet.png
+END
+ic_sound_bluetooth_holo_dark.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_sound_bluetooth_holo_dark.png
+END
+ic_wizard_callwithus.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_callwithus.png
+END
+ic_wizard_blicnet.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_blicnet.png
+END
+dial_num_pound_wht.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/dial_num_pound_wht.png
+END
+ic_wizard_enaknet.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_enaknet.png
+END
+ic_ab_text_holo_dark.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_ab_text_holo_dark.png
+END
+ic_wizard_modulus.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_modulus.png
+END
+ic_wizard_telekom_srbija.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_telekom_srbija.png
+END
+ic_sound_speakerphone_holo_dark.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_sound_speakerphone_holo_dark.png
+END
+ic_wizard_orbtalk.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_orbtalk.png
+END
+ic_wizard_voocall.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_voocall.png
+END
+ic_wizard_telenative.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_telenative.png
+END
+ic_wizard_mtel.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_mtel.png
+END
+ic_wizard_deltatelecom.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_deltatelecom.png
+END
+ic_wizard_abaglobal.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2303/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_abaglobal.png
+END
+ic_wizard_fix2mod.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_fix2mod.png
+END
+ic_wizard_indonix.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2282/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_indonix.png
+END
+ic_wizard_sipcel.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_sipcel.png
+END
+ic_wizard_mobile4u.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_mobile4u.png
+END
+ic_wizard_congstar.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_congstar.png
+END
+ic_ab_dialpad.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_ab_dialpad.png
+END
+endcall_background_texture.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/endcall_background_texture.png
+END
+ic_indicator_yellow.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_indicator_yellow.png
+END
+ic_contact_picture_holo_dark.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_contact_picture_holo_dark.png
+END
+ic_call_outgoing_holo_dark.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_call_outgoing_holo_dark.png
+END
+ic_wizard_cnx.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_cnx.png
+END
+ic_wizard_intertelecom.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_intertelecom.png
+END
+ic_wizard_sfr.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_sfr.png
+END
+ic_wizard_peopleline.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_peopleline.png
+END
+ic_wizard_voipnor.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_voipnor.png
+END
+ic_wizard_sigapy.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_sigapy.png
+END
+ic_wizard_fayn.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2277/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_fayn.png
+END
+ic_wizard_voipportal.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_voipportal.png
+END
+ic_call_incoming_holo_dark.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_call_incoming_holo_dark.png
+END
+ic_wizard_mydivert.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_mydivert.png
+END
+ic_wizard_directdial.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_directdial.png
+END
+ic_wizard_cotas.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_cotas.png
+END
+ic_wizard_svanto.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_svanto.png
+END
+ic_mute_holo_dark.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_mute_holo_dark.png
+END
+ic_wizard_xnet.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_xnet.png
+END
+ic_wizard_ocn.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_ocn.png
+END
+grabber.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/grabber.9.png
+END
+ic_wizard_dell.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_dell.png
+END
+ic_wizard_voipplanet.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_voipplanet.png
+END
+ic_wizard_pttjapan.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_pttjapan.png
+END
+ic_wizard_freelycall.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_freelycall.png
+END
+ic_wizard_mobilewifi.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_mobilewifi.png
+END
+ic_wizard_easycallgr.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_easycallgr.png
+END
+ic_indicator_on.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_indicator_on.png
+END
+ic_wizard_mweb.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_mweb.png
+END
+ic_wizard_ukrcall.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2303/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_ukrcall.png
+END
+ic_wizard_eha.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_eha.png
+END
+ic_prefs_media.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_prefs_media.png
+END
+ic_wizard_zoontelecom.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_zoontelecom.png
+END
+ic_divider_dashed_holo_dark.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_divider_dashed_holo_dark.png
+END
+ic_wizard_keyyo.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_keyyo.png
+END
+ic_menu_msg_compose_holo_dark.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_menu_msg_compose_holo_dark.png
+END
+ic_wizard_callmyway.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_callmyway.png
+END
+ic_wizard_zeng.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_zeng.png
+END
+ic_wizard_viptel.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2284/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_viptel.png
+END
+ic_wizard_amivox.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_amivox.png
+END
+ic_wizard_voipdoup.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_voipdoup.png
+END
+ic_wizard_telaccess.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_telaccess.png
+END
+ic_wizard_yesmy.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_yesmy.png
+END
+ic_wizard_megavoip.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_megavoip.png
+END
+ic_wizard_traveltele.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_traveltele.png
+END
+btn_call_pressed.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/btn_call_pressed.png
+END
+ic_wizard_megafon.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_megafon.png
+END
+ic_wizard_pbxes.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_pbxes.png
+END
+ic_wizard_vega.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_vega.png
+END
+ic_wizard_falavip.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_falavip.png
+END
+ic_wizard_babytel.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_babytel.png
+END
+ic_wizard_telemega.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_telemega.png
+END
+ic_wizard_abcvoip.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_abcvoip.png
+END
+ic_wizard_voipllama.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_voipllama.png
+END
+ic_wizard_bgcall.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_bgcall.png
+END
+ic_wizard_soho66.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2285/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_soho66.png
+END
+ic_prefs_media_video.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_prefs_media_video.png
+END
+ic_indicator_red.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_indicator_red.png
+END
+ic_wizard_phonepower.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_phonepower.png
+END
+ic_wizard_abatel.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_abatel.png
+END
+ic_wizard_voipmuch.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_voipmuch.png
+END
+ic_wizard_aaisp.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_aaisp.png
+END
+ic_ab_dialer_holo_dark.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_ab_dialer_holo_dark.png
+END
+ic_wizard_lolawireless.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_lolawireless.png
+END
+stat_sys_vp_phone_call.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/stat_sys_vp_phone_call.png
+END
+ic_lockscreen_glowdot.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2298/trunk/CSipSimple/res/drawable-xhdpi/ic_lockscreen_glowdot.png
+END
+ic_wizard_050plus.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_050plus.png
+END
+ic_wizard_spout.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2309/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_spout.png
+END
+ic_launcher_phone.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_launcher_phone.png
+END
+ic_speaker_dark.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_speaker_dark.png
+END
+ic_wizard_sipme.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_sipme.png
+END
+ic_contacts_holo_dark.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_contacts_holo_dark.png
+END
+ic_dial_action_call.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_dial_action_call.png
+END
+ic_wizard_tecobu.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_tecobu.png
+END
+ic_wizard_ostn.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_ostn.png
+END
+ic_menu_switch_digit.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_menu_switch_digit.png
+END
+ic_wizard_nymgo.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_nymgo.png
+END
+ic_wizard_globtelecom.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_globtelecom.png
+END
+ic_wizard_commpeak.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_commpeak.png
+END
+ic_wizard_a1.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2271/trunk/CSipSimple/res/drawable-xhdpi/ic_wizard_a1.png
+END
