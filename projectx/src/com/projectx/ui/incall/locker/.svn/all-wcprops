@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2299/trunk/CSipSimple/src/com/csipsimple/ui/incall/locker
+END
+InCallAnswerControls.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2298/trunk/CSipSimple/src/com/csipsimple/ui/incall/locker/InCallAnswerControls.java
+END
+IOnLeftRightChoice.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2298/trunk/CSipSimple/src/com/csipsimple/ui/incall/locker/IOnLeftRightChoice.java
+END
+LeftRightChooserUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2298/trunk/CSipSimple/src/com/csipsimple/ui/incall/locker/LeftRightChooserUtils.java
+END
+ScreenLocker.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2298/trunk/CSipSimple/src/com/csipsimple/ui/incall/locker/ScreenLocker.java
+END

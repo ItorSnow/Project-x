@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2140/trunk/CSipSimple/src/com/csipsimple/pjsip/reghandler
+END
+RegHandlerModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2090/trunk/CSipSimple/src/com/csipsimple/pjsip/reghandler/RegHandlerModule.java
+END
+RegHandlerCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2140/trunk/CSipSimple/src/com/csipsimple/pjsip/reghandler/RegHandlerCallback.java
+END
