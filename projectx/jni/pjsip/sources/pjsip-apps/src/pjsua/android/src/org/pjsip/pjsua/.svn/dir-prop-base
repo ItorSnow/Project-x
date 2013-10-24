@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 58
+PjsuaAppCallback.java
+pjsua.java
+pjsuaJNI.java
+SWIGTYPE*
+
+
+END

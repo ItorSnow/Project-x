@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2175/trunk/CSipSimple/jni/amr-stagefright/vo-amrwbenc
+END
+voIndex.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2175/trunk/CSipSimple/jni/amr-stagefright/vo-amrwbenc/voIndex.h
+END
+voAMRWB.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2175/trunk/CSipSimple/jni/amr-stagefright/vo-amrwbenc/voAMRWB.h
+END
+enc_if.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2175/trunk/CSipSimple/jni/amr-stagefright/vo-amrwbenc/enc_if.h
+END
+voMem.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2175/trunk/CSipSimple/jni/amr-stagefright/vo-amrwbenc/voMem.h
+END
+voType.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2175/trunk/CSipSimple/jni/amr-stagefright/vo-amrwbenc/voType.h
+END
+cmnMemory.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2175/trunk/CSipSimple/jni/amr-stagefright/vo-amrwbenc/cmnMemory.h
+END
+voAudio.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2175/trunk/CSipSimple/jni/amr-stagefright/vo-amrwbenc/voAudio.h
+END

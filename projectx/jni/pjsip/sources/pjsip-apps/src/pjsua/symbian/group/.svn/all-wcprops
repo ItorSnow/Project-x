@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/!svn/ver/4492/pjproject/trunk/pjsip-apps/src/pjsua/symbian/group
+END
+pjsua_icons.mk
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/!svn/ver/4477/pjproject/trunk/pjsip-apps/src/pjsua/symbian/group/pjsua_icons.mk
+END
+ABLD.BAT
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/!svn/ver/4477/pjproject/trunk/pjsip-apps/src/pjsua/symbian/group/ABLD.BAT
+END
+pjsua.mmp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/!svn/ver/4492/pjproject/trunk/pjsip-apps/src/pjsua/symbian/group/pjsua.mmp
+END
+bld.inf
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/!svn/ver/4477/pjproject/trunk/pjsip-apps/src/pjsua/symbian/group/bld.inf
+END

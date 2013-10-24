@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/!svn/ver/4537/pjproject/trunk/pjsip-apps/src/pjsua
+END
+pjsua_app.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/!svn/ver/4525/pjproject/trunk/pjsip-apps/src/pjsua/pjsua_app.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/!svn/ver/4522/pjproject/trunk/pjsip-apps/src/pjsua/main.c
+END
+pjsua_app_legacy.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/!svn/ver/4537/pjproject/trunk/pjsip-apps/src/pjsua/pjsua_app_legacy.c
+END
+pjsua_app_config.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/!svn/ver/4537/pjproject/trunk/pjsip-apps/src/pjsua/pjsua_app_config.c
+END
+pjsua_app.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/!svn/ver/4489/pjproject/trunk/pjsip-apps/src/pjsua/pjsua_app.h
+END
+pjsua_app_cli.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/!svn/ver/4537/pjproject/trunk/pjsip-apps/src/pjsua/pjsua_app_cli.c
+END
+gui.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/!svn/ver/3553/pjproject/trunk/pjsip-apps/src/pjsua/gui.h
+END
+pjsua_app_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/!svn/ver/4537/pjproject/trunk/pjsip-apps/src/pjsua/pjsua_app_common.c
+END
+pjsua_app_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/!svn/ver/4492/pjproject/trunk/pjsip-apps/src/pjsua/pjsua_app_config.h
+END
+main_rtems.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/!svn/ver/1227/pjproject/trunk/pjsip-apps/src/pjsua/main_rtems.c
+END
+pjsua_app_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/!svn/ver/4489/pjproject/trunk/pjsip-apps/src/pjsua/pjsua_app_common.h
+END

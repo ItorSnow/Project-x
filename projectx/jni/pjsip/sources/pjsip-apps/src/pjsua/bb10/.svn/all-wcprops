@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/!svn/ver/4491/pjproject/trunk/pjsip-apps/src/pjsua/bb10
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/!svn/ver/4485/pjproject/trunk/pjsip-apps/src/pjsua/bb10/.project
+END
+PjsuaBB.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/!svn/ver/4491/pjproject/trunk/pjsip-apps/src/pjsua/bb10/PjsuaBB.pro
+END
+.cproject
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/!svn/ver/4482/pjproject/trunk/pjsip-apps/src/pjsua/bb10/.cproject
+END
+precompiled.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/!svn/ver/4471/pjproject/trunk/pjsip-apps/src/pjsua/bb10/precompiled.h
+END
+icon.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/!svn/ver/4471/pjproject/trunk/pjsip-apps/src/pjsua/bb10/icon.png
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/!svn/ver/4471/pjproject/trunk/pjsip-apps/src/pjsua/bb10/Makefile
+END
+config.pri
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/!svn/ver/4471/pjproject/trunk/pjsip-apps/src/pjsua/bb10/config.pri
+END
+bar-descriptor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/!svn/ver/4485/pjproject/trunk/pjsip-apps/src/pjsua/bb10/bar-descriptor.xml
+END

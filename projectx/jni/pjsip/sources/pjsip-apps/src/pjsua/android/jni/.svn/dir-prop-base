@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 41
+pjsua_wrap.h
+pjsua_wrap.cpp
+pjsua.cpp
+.*
+
+END

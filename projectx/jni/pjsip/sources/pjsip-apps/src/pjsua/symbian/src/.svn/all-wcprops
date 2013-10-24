@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/!svn/ver/4492/pjproject/trunk/pjsip-apps/src/pjsua/symbian/src
+END
+pjsuaContainer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/!svn/ver/4477/pjproject/trunk/pjsip-apps/src/pjsua/symbian/src/pjsuaContainer.cpp
+END
+pjsuaApplication.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/!svn/ver/4477/pjproject/trunk/pjsip-apps/src/pjsua/symbian/src/pjsuaApplication.cpp
+END
+PjsuaContainerView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/!svn/ver/4477/pjproject/trunk/pjsip-apps/src/pjsua/symbian/src/PjsuaContainerView.cpp
+END
+pjsuaAppUi.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/!svn/ver/4492/pjproject/trunk/pjsip-apps/src/pjsua/symbian/src/pjsuaAppUi.cpp
+END
+pjsuaDocument.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/!svn/ver/4477/pjproject/trunk/pjsip-apps/src/pjsua/symbian/src/pjsuaDocument.cpp
+END

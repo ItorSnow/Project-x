@@ -1,0 +1,101 @@
+10
+
+dir
+4549
+http://svn.pjsip.org/repos/pjproject/trunk/third_party
+http://svn.pjsip.org/repos
+
+
+
+2013-06-19T06:47:43.182513Z
+4537
+riza
+has-props
+
+
+svn:externals
+
+
+
+
+
+
+
+
+
+
+74dad513-b988-da41-8d7b-12977e46ad98
+
+bdsound
+dir
+
+build
+dir
+
+mp3
+dir
+
+milenage
+dir
+
+g7221
+dir
+
+speex
+dir
+
+gsm
+dir
+
+lib
+dir
+
+BaseClasses
+dir
+
+bin
+dir
+
+resample
+dir
+
+srtp
+dir
+
+ilbc
+dir
+
+README.txt
+file
+
+
+
+
+2013-10-10T17:58:35.752504Z
+62d2d909bb2842156b8fd76bd21a121f
+2008-01-23T20:17:42.299488Z
+1730
+bennylp
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+407
+

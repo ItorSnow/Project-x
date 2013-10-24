@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/p/freetel/code/!svn/ver/289/codec2/src
+END
+_kiss_fft_guts.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/freetel/code/!svn/ver/260/codec2/src/_kiss_fft_guts.h
+END
+c2dec.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/p/freetel/code/!svn/ver/260/codec2/src/c2dec.c
+END
+sim.sh
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/p/freetel/code/!svn/ver/263/codec2/src/sim.sh
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/freetel/code/!svn/ver/289/codec2/src/Makefile.am
+END
+lsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/p/freetel/code/!svn/ver/226/codec2/src/lsp.c
+END
+listensim.sh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/freetel/code/!svn/ver/263/codec2/src/listensim.sh
+END
+generate_codebook.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/freetel/code/!svn/ver/251/codec2/src/generate_codebook.c
+END
+codec2.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/p/freetel/code/!svn/ver/283/codec2/src/codec2.c
+END
+fq20.sh
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/p/freetel/code/!svn/ver/166/codec2/src/fq20.sh
+END
+codec2_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/freetel/code/!svn/ver/283/codec2/src/codec2_internal.h
+END
+phase.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/p/freetel/code/!svn/ver/283/codec2/src/phase.c
+END
+interp.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/p/freetel/code/!svn/ver/285/codec2/src/interp.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/freetel/code/!svn/ver/289/codec2/src/Makefile.in
+END
+lsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/p/freetel/code/!svn/ver/201/codec2/src/lsp.h
+END
+comp.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/p/freetel/code/!svn/ver/201/codec2/src/comp.h
+END
+codec2.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/p/freetel/code/!svn/ver/246/codec2/src/codec2.h
+END
+phase.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/p/freetel/code/!svn/ver/242/codec2/src/phase.h
+END
+interp.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/p/freetel/code/!svn/ver/283/codec2/src/interp.h
+END
+kiss_fft.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/freetel/code/!svn/ver/260/codec2/src/kiss_fft.c
+END
+c2demo.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/p/freetel/code/!svn/ver/224/codec2/src/c2demo.c
+END
+kiss_fft.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/freetel/code/!svn/ver/260/codec2/src/kiss_fft.h
+END
+c2sim.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/p/freetel/code/!svn/ver/283/codec2/src/c2sim.c
+END
+pack.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/p/freetel/code/!svn/ver/196/codec2/src/pack.c
+END
+lpc.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/p/freetel/code/!svn/ver/283/codec2/src/lpc.c
+END
+fft.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/p/freetel/code/!svn/ver/260/codec2/src/fft.c
+END
+defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/p/freetel/code/!svn/ver/251/codec2/src/defines.h
+END
+lpc.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/p/freetel/code/!svn/ver/283/codec2/src/lpc.h
+END
+fft.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/p/freetel/code/!svn/ver/260/codec2/src/fft.h
+END
+nlp.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/p/freetel/code/!svn/ver/260/codec2/src/nlp.c
+END
+quantise.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/freetel/code/!svn/ver/260/codec2/src/quantise.c
+END
+c2enc.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/p/freetel/code/!svn/ver/260/codec2/src/c2enc.c
+END
+postfilter.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/freetel/code/!svn/ver/216/codec2/src/postfilter.c
+END
+nlp.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/p/freetel/code/!svn/ver/205/codec2/src/nlp.h
+END
+quantise.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/freetel/code/!svn/ver/251/codec2/src/quantise.h
+END
+sine.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/p/freetel/code/!svn/ver/260/codec2/src/sine.c
+END
+postfilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/freetel/code/!svn/ver/201/codec2/src/postfilter.h
+END
+sine.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/p/freetel/code/!svn/ver/236/codec2/src/sine.h
+END
+dump.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/p/freetel/code/!svn/ver/283/codec2/src/dump.c
+END
+glottal.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/p/freetel/code/!svn/ver/252/codec2/src/glottal.c
+END
+dump.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/p/freetel/code/!svn/ver/283/codec2/src/dump.h
+END

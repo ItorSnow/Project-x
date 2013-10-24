@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2175/trunk/CSipSimple/jni/amr-stagefright/opencore-amrwb
+END
+dec_if.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2175/trunk/CSipSimple/jni/amr-stagefright/opencore-amrwb/dec_if.h
+END
+pvamrwbdecoder_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2175/trunk/CSipSimple/jni/amr-stagefright/opencore-amrwb/pvamrwbdecoder_api.h
+END

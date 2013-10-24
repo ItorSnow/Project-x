@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2182/trunk/CSipSimple/jni/fdk_aac/patches
+END
+series
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2182/trunk/CSipSimple/jni/fdk_aac/patches/series
+END
+001remove_workaround_for_ndk_r8e.diff
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2182/trunk/CSipSimple/jni/fdk_aac/patches/001remove_workaround_for_ndk_r8e.diff
+END
+000arch_not_redefined.diff
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2048/trunk/CSipSimple/jni/fdk_aac/patches/000arch_not_redefined.diff
+END

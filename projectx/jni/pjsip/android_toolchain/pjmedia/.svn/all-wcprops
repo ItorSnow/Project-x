@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2175/trunk/CSipSimple/jni/pjsip/android_toolchain/pjmedia
+END
+Video.mk
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2115/trunk/CSipSimple/jni/pjsip/android_toolchain/pjmedia/Video.mk
+END
+OpenSL_ES.mk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2115/trunk/CSipSimple/jni/pjsip/android_toolchain/pjmedia/OpenSL_ES.mk
+END
+Codec_g7221.mk
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2115/trunk/CSipSimple/jni/pjsip/android_toolchain/pjmedia/Codec_g7221.mk
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2175/trunk/CSipSimple/jni/pjsip/android_toolchain/pjmedia/Android.mk
+END
+Screencapture.mk
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2115/trunk/CSipSimple/jni/pjsip/android_toolchain/pjmedia/Screencapture.mk
+END

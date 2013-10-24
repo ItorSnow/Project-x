@@ -1,0 +1,24 @@
+K 10
+svn:ignore
+V 156
+*.ncb
+*.opt
+*.plg
+*.log
+*.LOG
+.*
+*.sln
+*.vcproj*user
+*.suo
+*.pdb
+*.wav
+*.WAV
+activex-pjsua_p.c
+dlldata.c
+footprint.txt
+footprint.htm
+*.htm
+PJSYSTEST*
+*.aps
+
+END

@@ -1,0 +1,6 @@
+K 13
+svn:externals
+V 58
+sources https://svn.code.sf.net/p/freetel/code/codec2/src
+
+END

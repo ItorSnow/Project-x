@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2175/trunk/CSipSimple/jni/amr-stagefright/pj_sources
+END
+stagefright_amr.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2175/trunk/CSipSimple/jni/amr-stagefright/pj_sources/stagefright_amr.h
+END
+stagefright_amrnb_dynloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2175/trunk/CSipSimple/jni/amr-stagefright/pj_sources/stagefright_amrnb_dynloader.h
+END
+stagefright_amrwb_dynloader.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2175/trunk/CSipSimple/jni/amr-stagefright/pj_sources/stagefright_amrwb_dynloader.c
+END
+homing_amr_wb_dec.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2175/trunk/CSipSimple/jni/amr-stagefright/pj_sources/homing_amr_wb_dec.c
+END
+stagefright_amrwb_dynloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2175/trunk/CSipSimple/jni/amr-stagefright/pj_sources/stagefright_amrwb_dynloader.h
+END
+stagefright_amr.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2175/trunk/CSipSimple/jni/amr-stagefright/pj_sources/stagefright_amr.c
+END
+cmnMemory.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2175/trunk/CSipSimple/jni/amr-stagefright/pj_sources/cmnMemory.c
+END
+stagefright_amrnb_dynloader.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2175/trunk/CSipSimple/jni/amr-stagefright/pj_sources/stagefright_amrnb_dynloader.c
+END
+homing_amr_wb_dec.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2175/trunk/CSipSimple/jni/amr-stagefright/pj_sources/homing_amr_wb_dec.h
+END

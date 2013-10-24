@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/!svn/ver/4477/pjproject/trunk/pjsip-apps/src/pjsua/symbian/inc
+END
+pjsuaAppUi.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/!svn/ver/4477/pjproject/trunk/pjsip-apps/src/pjsua/symbian/inc/pjsuaAppUi.h
+END
+pjsuaDocument.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/!svn/ver/4477/pjproject/trunk/pjsip-apps/src/pjsua/symbian/inc/pjsuaDocument.h
+END
+pjsuaContainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/!svn/ver/4477/pjproject/trunk/pjsip-apps/src/pjsua/symbian/inc/pjsuaContainer.h
+END
+pjsuaApplication.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/!svn/ver/4477/pjproject/trunk/pjsip-apps/src/pjsua/symbian/inc/pjsuaApplication.h
+END
+pjsua.pan
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/!svn/ver/4477/pjproject/trunk/pjsip-apps/src/pjsua/symbian/inc/pjsua.pan
+END
+pjsua.hrh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/!svn/ver/4477/pjproject/trunk/pjsip-apps/src/pjsua/symbian/inc/pjsua.hrh
+END
+PjsuaContainerView.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/!svn/ver/4477/pjproject/trunk/pjsip-apps/src/pjsua/symbian/inc/PjsuaContainerView.h
+END

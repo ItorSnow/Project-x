@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2098/trunk/CSipSimple/jni/pjsip_mod_reghandler/include
+END
+pjsip_mobile_reg_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2090/trunk/CSipSimple/jni/pjsip_mod_reghandler/include/pjsip_mobile_reg_handler.h
+END
+mod_reghandler.i
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2098/trunk/CSipSimple/jni/pjsip_mod_reghandler/include/mod_reghandler.i
+END
