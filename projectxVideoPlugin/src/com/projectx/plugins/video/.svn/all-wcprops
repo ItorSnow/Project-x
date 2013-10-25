@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2008/trunk/CSipSimpleVideoPlugin/src/com/csipsimple/plugins/video
+END
+CaptureReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2008/trunk/CSipSimpleVideoPlugin/src/com/csipsimple/plugins/video/CaptureReceiver.java
+END
+PluginReceiverFfmpeg.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2008/trunk/CSipSimpleVideoPlugin/src/com/csipsimple/plugins/video/PluginReceiverFfmpeg.java
+END
+PluginReceiverVpx.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2008/trunk/CSipSimpleVideoPlugin/src/com/csipsimple/plugins/video/PluginReceiverVpx.java
+END
+PluginReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1201/trunk/CSipSimpleVideoPlugin/src/com/csipsimple/plugins/video/PluginReceiver.java
+END

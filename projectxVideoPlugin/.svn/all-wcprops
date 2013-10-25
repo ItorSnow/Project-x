@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2008/trunk/CSipSimpleVideoPlugin
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1201/trunk/CSipSimpleVideoPlugin/project.properties
+END
+proguard.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1201/trunk/CSipSimpleVideoPlugin/proguard.cfg
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2008/trunk/CSipSimpleVideoPlugin/AndroidManifest.xml
+END
