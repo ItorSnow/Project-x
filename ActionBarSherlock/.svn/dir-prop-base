@@ -1,0 +1,14 @@
+K 10
+svn:ignore
+V 96
+gen
+bin
+.classpath
+.pmd
+.project
+.settings
+local.properties
+ant.properties
+proguard-project.txt
+
+END
