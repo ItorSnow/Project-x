@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 53
+gen
+libs
+bin
+.classpath
+.project
+.settings
+.cproject
+
+END
